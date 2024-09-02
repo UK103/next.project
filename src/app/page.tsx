@@ -7,7 +7,7 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-          “My Name Is Umar Khalid.This is my project generative AI.And I have done it.This project is given to me by my teacher MIAN ASIF who thought me very well so I became able to make this project.”
+          “My Name Is Choudary Umar Khalid.This is my project generative AI.And I have done it.This project is given to me by my teacher MIAN ASIF who thought me very well so I became able to make this project.”
         </p>
       </blockquote>
       <figcaption className="font-medium">
