@@ -19,7 +19,7 @@ Whenever my friends come over to my house, they click a lot of pictures. Even my
       </blockquote>
       <figcaption className="font-medium">
         <div className="text-sky-500 dark:text-sky-400">
-          CHOUDARY UMAR KHALID
+          UMAR KHALID
         </div>
         <div className="text-slate-700 dark:text-slate-500">
           A Citizen of Rahim Yar Khan
